@@ -23,7 +23,7 @@
   </style>
 </head>
 <body>
-  <div id='sidebar' class='sidebar fill-navy pad2 pin-left z10 dark col3'><h3 class="fancy space-bottom1">INDIA IN <br/>THE WORLD</h3><p class="quiet">Hover over each country to see where each speaker is from.</p></div>
+  <div id='sidebar' class='sidebar fill-navy pad2 pin-left z10 dark col3'><h3 class="fancy space-bottom1">INDIA IN <br/>THE WORLD</h3><p class="quiet">Hover over each country to see where India has a presence.</p></div>
   <div id='map'></div>
   <script>
   mapboxgl.accessToken = '{{site.accesstoken}}';
@@ -102,7 +102,7 @@
     })
     speakers += '</div>';
     
-    document.getElementById('sidebar').innerHTML = '<h3 class="fancy space-bottom1">'+feature.properties.country+'</h3><p>Number of speakers: ' + feature.properties.speaker_num+'</p>'+ speakers;
+    document.getElementById('sidebar').innerHTML = '<h3 class="fancy space-bottom1">INDIA IN <br/>'+feature.properties.country+'</h3><p>Number of missions: ' + feature.properties.speaker_num+'</p>'+ speakers;
     
   });
   </script>
