@@ -1,19 +1,19 @@
-title: Unconventional use cases for Jekyll
-email: katydecorah@gmail.com
-description: "JekyllConf 2016 - Experiments to learn more about your date."
-baseurl: /unconventional
-url: "http://katydecorah.com"
+title: Twiplomacy
+email: vgk@tuta.io
+description: "Using Twitter for Diplomacy"
+baseurl: /twiplomacy
+url: "http://vg.github.io/twiplomacy/"
 permalink: pretty
-accesstoken: pk.eyJ1Ijoia2F0eWRlY29yYWgiLCJhIjoiY2lueGc5MzV2MTdpcHU4a2o0aGdkMGZpYSJ9.AH3nT__bjnI57me5iahTWw
+accesstoken: pk.eyJ1IjoidmdrIiwiYSI6ImNpdHJnaHczbjAzYXgyem9ib2xmdjRmd3oifQ.YxseOWnpqEqcCfh1LvWpDw
 
 author: 
-  name: Katy DeCorah
-  email: katydecorah@gmail.com
-  uri: http://katydecorah.com
-  twitter: katydecorah
+  name: Venu Gopal
+  email: vgk@tuta.io
+  uri: https://vg.github.io
+  twitter: _venu
 
 twitter:
-  username: katydecorah
+  username: _venu
 
 timezone: America/New_York
 
