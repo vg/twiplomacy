@@ -1,4 +1,0 @@
-language: node_js
-node_js: stable
-#before_install: gem install scss-lint
-sudo: false
