@@ -37,7 +37,7 @@
   map.on('load', function () {
     map.addSource("countries", {
       "type": "geojson",
-      "data": {% include data.geojson %}
+      "data": {% include india.geojson %}
     });
     
     map.addLayer({
@@ -91,18 +91,18 @@
     
     var feature = features[0];
     
-    // build city list
-    var cityList = feature.properties['city_names'].split(',');
+    // build mission list
+    var missionList = feature.properties['mission_names'].split(',');
     var twitterList = feature.properties['twitter_handles'].split(',');
-    var missions = feature.properties['missions'].split(',');
-    //console.log(cityList);
+    var detailss = feature.properties['detailss'].split(',');
+    //console.log(missionList);
     var cities = '<div class="cities">';
-    cityList.forEach(function(city, i){
-      cities += '<div class="city clearfix keyline-bottom pad1y"><a href="https://twitter.com/'+twitterList[i]+'" target="_blank" class="block"><img alt="" class="dot col2 margin0r fl" src="https://avatars.io/twitter/'+twitterList[i]+'"><span class="block fr col9"><span class="strong" style="color: #fff">' + city + '</span><span class="small block">'+missions[i]+'<span></span></a></div>';
+    missionList.forEach(function(mission, i){
+      cities += '<div class="mission clearfix keyline-bottom pad1y"><a href="https://twitter.com/'+twitterList[i]+'" target="_blank" class="block"><img alt="" class="dot col2 margin0r fl" src="https://avatars.io/twitter/'+twitterList[i]+'"><span class="block fr col9"><span class="strong" style="color: #fff">' + mission + '</span><span class="small block">'+detailss[i]+'<span></span></a></div>';
     })
     cities += '</div>';
     
-    document.getElementById('sidebar').innerHTML = '<h3 class="fancy space-bottom1">INDIA IN <br/>'+feature.properties.country+'</h3><p>Number of missions and posts: ' + feature.properties.city_num+'</p>'+ cities;
+    document.getElementById('sidebar').innerHTML = '<h3 class="fancy space-bottom1">INDIA IN <br/>'+feature.properties.country+'</h3><p>Number of diplomatic missions: ' + feature.properties.mission_num+'</p>'+ cities;
     
   });
   </script>
