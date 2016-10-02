@@ -91,18 +91,18 @@
     
     var feature = features[0];
     
-    // build speaker list
-    var speakerList = feature.properties['speaker_names'].split(',');
+    // build city list
+    var cityList = feature.properties['city_names'].split(',');
     var twitterList = feature.properties['twitter_handles'].split(',');
     var talks = feature.properties['talks'].split(',');
-    //console.log(speakerList);
-    var speakers = '<div class="speakers">';
-    speakerList.forEach(function(speaker, i){
-      speakers += '<div class="speaker clearfix keyline-bottom pad1y"><a href="https://twitter.com/'+twitterList[i]+'" target="_blank" class="block"><img alt="" class="dot col2 margin0r fl" src="https://avatars.io/twitter/'+twitterList[i]+'"><span class="block fr col9"><span class="strong" style="color: #fff">' + speaker + '</span><span class="small block">'+talks[i]+'<span></span></a></div>';
+    //console.log(cityList);
+    var citys = '<div class="citys">';
+    cityList.forEach(function(city, i){
+      citys += '<div class="city clearfix keyline-bottom pad1y"><a href="https://twitter.com/'+twitterList[i]+'" target="_blank" class="block"><img alt="" class="dot col2 margin0r fl" src="https://avatars.io/twitter/'+twitterList[i]+'"><span class="block fr col9"><span class="strong" style="color: #fff">' + city + '</span><span class="small block">'+talks[i]+'<span></span></a></div>';
     })
-    speakers += '</div>';
+    citys += '</div>';
     
-    document.getElementById('sidebar').innerHTML = '<h3 class="fancy space-bottom1">INDIA IN <br/>'+feature.properties.country+'</h3><p>Number of missions and posts: ' + feature.properties.speaker_num+'</p>'+ speakers;
+    document.getElementById('sidebar').innerHTML = '<h3 class="fancy space-bottom1">INDIA IN <br/>'+feature.properties.country+'</h3><p>Number of missions and posts: ' + feature.properties.city_num+'</p>'+ citys;
     
   });
   </script>
