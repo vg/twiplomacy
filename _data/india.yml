@@ -47,17 +47,17 @@
 - mission: Canberra
   twitter: HCICanberra
   country: Australia
-  details: High Comdetails of India in Canberra Australia
+  details: High Comission of India in Canberra Australia
 
 - mission: Melbourne
   twitter: cgimelbourne
   country: Australia
-  details: Assistant High Comdetails of India in Melbourne Australia
+  details: Assistant High Comission of India in Melbourne Australia
 
 - mission: Sydney
   twitter: cgisydney
   country: Australia
-  details: Assistant High Comdetails of India in Sydney Australia
+  details: Assistant High Comission of India in Sydney Australia
 
 - mission: Perth
   twitter: CGIPerth
@@ -82,17 +82,17 @@
 - mission: Dhaka
   twitter: ihcdhaka
   country: Bangladesh
-  details: High Comdetails of India in Dhaka Bangladesh
+  details: High Comission of India in Dhaka Bangladesh
 
 - mission: Chittagong
   twitter: ahcichittagong
   country: Bangladesh
-  details: Assistant High Comdetails of India in Chittagong Bangladesh
+  details: Assistant High Comission of India in Chittagong Bangladesh
 
 - mission: Rajshahi
   twitter: 
   country: Bangladesh
-  details: Assistant High Comdetails of India in Rajshahi Bangladesh
+  details: Assistant High Comission of India in Rajshahi Bangladesh
 
 - mission: Minsk
   twitter: amb_in
@@ -117,7 +117,7 @@
 - mission: Gaborone
   twitter: HCIGaborone
   country: Botswana
-  details: High Comdetails of India in Gaborone Botswana
+  details: High Comission of India in Gaborone Botswana
 
 - mission: Brasília
   twitter: indiainbrazil
@@ -132,7 +132,7 @@
 - mission: Bandar Seri Begawan
   twitter: hicomindBrunei
   country: Brunei
-  details: High Comdetails of India in Bandar Seri Begawan Brunei
+  details: High Comission of India in Bandar Seri Begawan Brunei
 
 - mission: Sofia
   twitter: IndiaInBulgaria
@@ -147,17 +147,17 @@
 - mission: Ottawa
   twitter: HCI_Ottawa
   country: Canada
-  details: High Comdetails of India in Ottawa Canada
+  details: High Comission of India in Ottawa Canada
 
 - mission: Toronto
   twitter: IndiainToronto
   country: Canada
-  details: Assistant High Comdetails of India in Toronto Canada
+  details: Assistant High Comission of India in Toronto Canada
 
 - mission: Vancouver
   twitter: cgivancouver
   country: Canada
-  details: Assistant High Comdetails of India in Vancouver Canada
+  details: Assistant High Comission of India in Vancouver Canada
 
 - mission: Santiago de Chile
   twitter: Indembchile
@@ -182,7 +182,7 @@
 - mission: Nicosia
   twitter: HCI_Nicosia
   country: Cyprus
-  details: High Comdetails of India in Nicosia Cyprus
+  details: High Comission of India in Nicosia Cyprus
 
 - mission: Prague
   twitter: IndiaCzech
@@ -212,7 +212,7 @@
 - mission: Suva
   twitter: HCI_Suva
   country: Fiji
-  details: High Comdetails of India in Suva Fiji
+  details: High Comission of India in Suva Fiji
 
 - mission: Helsinki
   twitter: IndEmbFinEst
@@ -252,7 +252,7 @@
 - mission: Accra
   twitter: HCI_Accra
   country: Ghana
-  details: High Comdetails of India in Accra Ghana
+  details: High Comission of India in Accra Ghana
 
 - mission: Athens
   twitter: EmbIndiaAthens
@@ -267,7 +267,7 @@
 - mission: Georgetown
   twitter: IndiainGuyana
   country: Guyana
-  details: High Comdetails of India in Georgetown Guyana
+  details: High Comission of India in Georgetown Guyana
 
 - mission: Budapest
   twitter: IndiaInHungary
@@ -347,7 +347,7 @@
 - mission: Kingston
   twitter: hcikingston
   country: Jamaica
-  details: High Comdetails of India in Kingston Jamaica
+  details: High Comission of India in Kingston Jamaica
 
 - mission: Tokyo
   twitter: IndianEmbTokyo
@@ -372,12 +372,12 @@
 - mission: Nairobi
   twitter: IndiainKenya
   country: Kenya
-  details: High Comdetails of India in Nairobi Kenya
+  details: High Comission of India in Nairobi Kenya
 
 - mission: Mombasa
   twitter: ahcimombasa
   country: Kenya
-  details: Assistant High Comdetails of India in Mombasa Kenya
+  details: Assistant High Comission of India in Mombasa Kenya
 
 - mission: Kuwait mission
   twitter: indembkwt
@@ -412,17 +412,17 @@
 - mission: Lilongwe
   twitter: India_in_Malawi
   country: Malawi
-  details: High Comdetails of India in Lilongwe Malawi
+  details: High Comission of India in Lilongwe Malawi
 
 - mission: Kuala Lumpur
   twitter: 
   country: Malaysia
-  details: High Comdetails of India in Kuala Lumpur Malaysia
+  details: High Comission of India in Kuala Lumpur Malaysia
 
 - mission: Malé
   twitter: HCIMaldives
   country: Maldives
-  details: High Comdetails of India in Malé Maldives
+  details: High Comission of India in Malé Maldives
 
 - mission: Bamako
   twitter: IndianEmbassyML
@@ -432,7 +432,7 @@
 - mission: Port Louis
   twitter: HCI_PortLouis
   country: Mauritius
-  details: High Comdetails of India in Port Louis Mauritius
+  details: High Comission of India in Port Louis Mauritius
 
 - mission: Mexico mission
   twitter: IndEmbMexico
@@ -452,7 +452,7 @@
 - mission: Maputo
   twitter: IndiainMoz
   country: Mozambique
-  details: High Comdetails of India in Maputo Mozambique
+  details: High Comission of India in Maputo Mozambique
 
 - mission: Yangon
   twitter: IndiainMyanmar
@@ -467,7 +467,7 @@
 - mission: Windhoek
   twitter: IndiainNamibia
   country: Namibia
-  details: High Comdetails of India in Windhoek Namibia
+  details: High Comission of India in Windhoek Namibia
 
 - mission: Kathmandu
   twitter: IndiaInNepal
@@ -492,7 +492,7 @@
 - mission: Wellington
   twitter: IndiainNZ
   country: New Zealand
-  details: High Comdetails of India in Wellington New Zealand
+  details: High Comission of India in Wellington New Zealand
 
 - mission: Niamey
   twitter: IndiainNiger
@@ -502,12 +502,12 @@
 - mission: Abuja
   twitter: india_nigeria
   country: Nigeria
-  details: High Comdetails of India in Abuja Nigeria
+  details: High Comission of India in Abuja Nigeria
 
 - mission: Lagos
   twitter: 
   country: Nigeria
-  details: Assistant High Comdetails of India in Lagos Nigeria
+  details: Assistant High Comission of India in Lagos Nigeria
 
 - mission: Pyongyang
   twitter: 
@@ -532,7 +532,7 @@
 - mission: Islamabad
   twitter: IndiainPakistan
   country: Pakistan
-  details: High Comdetails of India in Islamabad Pakistan
+  details: High Comission of India in Islamabad Pakistan
 
 - mission: Ramallah
   twitter: ROIRamallah
@@ -547,7 +547,7 @@
 - mission: Port Moresby
   twitter: ind_png
   country: Papua New Guinea
-  details: High Comdetails of India in Port Moresby Papua New Guinea
+  details: High Comission of India in Port Moresby Papua New Guinea
 
 - mission: Beijing
   twitter: 
@@ -652,12 +652,12 @@
 - mission: Victoria
   twitter: hci_seychelles
   country: Seychelles
-  details: High Comdetails of India in Victoria Seychelles
+  details: High Comission of India in Victoria Seychelles
 
 - mission: Singapore
   twitter: IndiainSingapor
   country: Singapore
-  details: High Comdetails of India in Singapore Singapore
+  details: High Comission of India in Singapore Singapore
 
 - mission: Bratislava
   twitter: IndiaInSlovakia
@@ -667,22 +667,22 @@
 - mission: Pretoria
   twitter: hci_pretoria
   country: South Africa
-  details: High Comdetails of India in Pretoria South Africa
+  details: High Comission of India in Pretoria South Africa
 
 - mission: Cape Town
   twitter: IndiainCapeTown
   country: South Africa
-  details: High Comdetails of India in Cape Town South Africa
+  details: High Comission of India in Cape Town South Africa
 
 - mission: Durban
   twitter: CGIDurban
   country: South Africa
-  details: Assistant High Comdetails of India in Durban South Africa
+  details: Assistant High Comission of India in Durban South Africa
 
 - mission: Johannesburg
   twitter: indiainjoburg
   country: South Africa
-  details: Assistant High Comdetails of India in Johannesburg South Africa
+  details: Assistant High Comission of India in Johannesburg South Africa
 
 - mission: Juba
   twitter: eoijuba
@@ -697,7 +697,7 @@
 - mission: Colombo
   twitter: IndiainSL
   country: Sri Lanka
-  details: High Comdetails of India in Colombo Sri Lanka
+  details: High Comission of India in Colombo Sri Lanka
 
 - mission: Hambantota
   twitter: CgiHoc
@@ -712,7 +712,7 @@
 - mission: Kandy
   twitter: AhciKandy
   country: Sri Lanka
-  details: Assistant High Comdetails of India in Kandy Sri Lanka
+  details: Assistant High Comission of India in Kandy Sri Lanka
 
 - mission: Khartoum
   twitter: EoI_Khartoum
@@ -762,7 +762,7 @@
 - mission: Dar es Salaam
   twitter: IndiainTanzania
   country: Tanzania
-  details: High Comdetails of India in Dar es Salaam Tanzania
+  details: High Comission of India in Dar es Salaam Tanzania
 
 - mission: Zanzibar
   twitter: cgizanzibar1
@@ -787,7 +787,7 @@
 - mission: Port of Spain
   twitter: IndiainTandT
   country: Trinidad and Tobago
-  details: High Comdetails of India in Port of Spain Trinidad and Tobago
+  details: High Comission of India in Port of Spain Trinidad and Tobago
 
 - mission: Tunis
   twitter: IndiainTunisia
@@ -812,7 +812,7 @@
 - mission: Kampala
   twitter: IndiainUganda
   country: Uganda
-  details: High Comdetails of India in Kampala Uganda
+  details: High Comission of India in Kampala Uganda
 
 - mission: Kiev
   twitter: IndiainUkraine
@@ -832,17 +832,17 @@
 - mission: London
   twitter: HCI_London
   country: United Kingdom
-  details: High Comdetails of India in London United Kingdom
+  details: High Comission of India in London United Kingdom
 
 - mission: Birmingham
   twitter: CGI_Bghm
   country: United Kingdom
-  details: Assistant High Comdetails of India in Birmingham United Kingdom
+  details: Assistant High Comission of India in Birmingham United Kingdom
 
 - mission: Edinburgh
   twitter: IndiaInScotland
   country: United Kingdom
-  details: Assistant High Comdetails of India in Edinburgh United Kingdom
+  details: Assistant High Comission of India in Edinburgh United Kingdom
 
 - mission: Washington DC
   twitter: IndianEmbassyUS
@@ -902,7 +902,7 @@
 - mission: Lusaka
   twitter: indiainzambia
   country: Zambia
-  details: High Comdetails of India in Lusaka Zambia
+  details: High Comission of India in Lusaka Zambia
 
 - mission: Harare
   twitter: IndiainZimbabwe
