@@ -1,4 +1,8 @@
-{% include distinct/countries.liquid %}{% include distinct/cities.liquid %}{% include distinct/twitter.liquid %}{% include distinct/missions.liquid %}{
+{% assign distinct_countries = "" | split: "" %}{% for city in site.data.cities %}{% if city.country %}{% unless distinct_countries contains city.country %}{% assign distinct_countries = distinct_countries | push: city.country %}{% endunless %}{% endif %}{% endfor %}
+{% assign cities = "" | split: "" %}{% for country in distinct_countries %}{% assign list = "" | split: "|" %}{% for city in site.data.cities %}{% if country == city.country %}{% assign list = list | push: city.city %}{% endif %}{% endfor %}{% assign cities = cities | push: list %}{% endfor %}
+{% assign twitter_handles = "" | split: "" %}{% for country in distinct_countries %}{% assign twitter = "" | split: "|" %}{% for city in site.data.cities %}{% if country == city.country %}{% assign twitter = twitter | push: city.twitter %}{% endif %}{% endfor %}{% assign twitter_handles = twitter_handles | push: twitter %}{% endfor %}
+{% assign missions = "" | split: "" %}{% for country in distinct_countries %}{% assign store_missions = "" | split: "|" %}{% for city in site.data.cities %}{% if country == city.country %}{% assign store_missions = store_missions | push: city.mission %}{% endif %}{% endfor %}{% assign missions = missions | push: store_missions %}{% endfor %}
+{
   "type": "FeatureCollection",
   "features": [{% for countries in site.data.countries %}{% for distinct_country in distinct_countries %}{% if countries.country == distinct_country %}
     {
