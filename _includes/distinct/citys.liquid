@@ -1,1 +1,0 @@
-{% assign citys = "" | split: "" %}{% for country in distinct_countries %}{% assign list = "" | split: "|" %}{% for city in site.data.citys %}{% if country == city.country %}{% assign list = list | push: city.city %}{% endif %}{% endfor %}{% assign citys = citys | push: list %}{% endfor %}

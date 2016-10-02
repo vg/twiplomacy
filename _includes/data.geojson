@@ -1,14 +1,14 @@
-{% include distinct/countries.liquid %}{% include distinct/citys.liquid %}{% include distinct/twitter.liquid %}{% include distinct/talks.liquid %}{
+{% include distinct/countries.liquid %}{% include distinct/cities.liquid %}{% include distinct/twitter.liquid %}{% include distinct/missions.liquid %}{
   "type": "FeatureCollection",
   "features": [{% for countries in site.data.countries %}{% for distinct_country in distinct_countries %}{% if countries.country == distinct_country %}
     {
       "type": "Feature",
       "properties": {
         "country": "{{countries.country}}",
-        "city_num": {{citys[forloop.index0] | size | jsonify}},
-        "city_names": {{citys[forloop.index0] | jsonify}},
+        "city_num": {{cities[forloop.index0] | size | jsonify}},
+        "city_names": {{cities[forloop.index0] | jsonify}},
         "twitter_handles": {{twitter_handles[forloop.index0] | jsonify}},
-        "talks": {{talks[forloop.index0] | jsonify}}
+        "missions": {{missions[forloop.index0] | jsonify}}
       },
       "geometry": {
         "type": "{{countries.type}}",
