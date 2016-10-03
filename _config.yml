@@ -30,7 +30,7 @@ exclude:
   - test
 #  - scratch
 
-mapboxgljs: v0.18.0
+mapboxgljs: v0.25.1
 mapboxjs: v2.4.0
 
 markdown: kramdown
