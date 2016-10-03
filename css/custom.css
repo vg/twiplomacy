@@ -17,6 +17,13 @@
 
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.hero {
+  background-image: url('../images/values-bg.png');
+  background-size: cover;
+  color: #000;
+  padding-bottom: 5rem;
+}
+
 .phones {
   position: relative;
 }
@@ -32,10 +39,8 @@
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .values {
-  background-image: url('../images/values-bg.jpg');
-  background-size: cover;
-  color: #fff;
-  padding-bottom: 5rem;
+    color: #fff;
+    background-color: #28353d;
 }
 .value-multiplier {
   margin-bottom: .5rem;
