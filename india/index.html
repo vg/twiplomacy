@@ -36,6 +36,7 @@
       
   var nav = new mapboxgl.Navigation({position: 'top-right'}); // position is optional
   map.addControl(nav);
+  map.addControl(new mapboxgl.Geolocate({position: 'top-right'}));
   
   map.on('load', function () {
     map.addSource("countries", {
