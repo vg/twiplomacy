@@ -19,16 +19,16 @@
 <p style="margin-top:1em"><a href="../" class="button">&larr; back</a></p>
 <table>
   <tr>
-    <th>Mission or Post</th>
-    <th>City</th>
     <th>Country</th>
+    <th>City</th>
+    <th>Diplomatic Mission</th>
     <th>Twitter</th>
   </tr>
   {% for post in site.data.india %}
   <tr>
-    <td>{{post.details}}</td>
-    <td>{{post.mission}}</td>
     <td>{{post.country}}</td>
+    <td>{{post.mission}}</td>
+    <td>{{post.details}}</td>
     <td><a href="http://twitter.com/{{post.twitter}}">India in {{post.mission}}</a></td>
   </tr>
   {% endfor %}
