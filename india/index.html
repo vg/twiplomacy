@@ -33,6 +33,9 @@
     center: [0,25],
     zoom: 1
   });
+      
+  var nav = new mapboxgl.Navigation({position: 'top-right'}); // position is optional
+  map.addControl(nav);
   
   map.on('load', function () {
     map.addSource("countries", {
