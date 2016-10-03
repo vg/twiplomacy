@@ -1,7 +1,7 @@
 ---
 ---
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -17,9 +17,6 @@
 <div class="container">
 <div class="row">
 <p style="margin-top:1em"><a href="../" class="button">&larr; back</a></p>
-{% for post in site.data.india %}
-{% assign numbers = post.numbers | plus: numbers %}
-{% endfor %}
 <table>
   <tr>
     <th>Mission or Post</th>
@@ -35,10 +32,6 @@
     <td><a href="http://twitter.com/{{post.twitter}}">India in {{post.mission}}</a></td>
   </tr>
   {% endfor %}
-  <tr>
-    <th colspan="6">Total</th>
-    <th>{{ numbers }}</th>
-  </tr>
 </table>
 </div>
 </div>
