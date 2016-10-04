@@ -11,7 +11,7 @@ Canada in Minneapolis,CanCGMPLS,United States,Consulate General of Canada to Min
 Canada in New York,CanadaNY,United States,Consulate General of Canada to New York
 Canada in San Francisco,CanCGSF,United States,Consulate General of Canada to San Francisco
 Canada in Seattle,CanCGSeattle,United States,Consulate General of Canada to Seattle
-Canada in Washington DC,CanEmbUSA,United States,"Embassy of Canada to Washington, DC"
+Canada in Washington DC,CanEmbUSA,United States,Embassy of Canada to Washington DC
 Canada in Argentina,CanadaArgentina,Argentina,Embassy of Canada to Argentina
 Canada in Barbados,CanHCBarbados,Barbados,Canadian High Commission in Barbados
 Canada in Bolivia,CanadaBolivia,Bolivia,Canada in Bolivia
@@ -49,8 +49,8 @@ Canada in Geneva,CanConsulGeneva,Geneva,Consulate of Canada to Geneva
 Canada in Germany,CanEmbGermany,Germany,Embassy of Canada to Germany
 Canada in Greece,CanadaGreece,Greece,Embassy of Canada to Greece
 Canada in Holy See,CanadaHolySee,Holy See,Embassy of Canada to the Holy See
-Canada in Hungary,CanadaHungary,Hungary,"Embassy of Canada to Hungary, Slovenia and Bosnia and Herzegovina"
-Canada in Slovenia,CanadaHungary,Slovenia,"Embassy of Canada to Hungary, Slovenia and Bosnia and Herzegovina"
+Canada in Hungary,CanadaHungary,Hungary,Embassy of Canada to Hungary Slovenia and Bosnia and Herzegovina
+Canada in Slovenia,CanadaHungary,Slovenia,Embassy of Canada to Hungary Slovenia and Bosnia and Herzegovina
 Canada in Iceland,CanadaIceland,Iceland,Embassy of Canada to Iceland
 Canada in Ireland,CanadaIreland,Ireland,Embassy of Canada to Ireland
 Canada in Italy,CanadainItaly,Italy,Embassy of Canada to Italy
@@ -100,10 +100,10 @@ Canada in Sierra Leone,CanadainSL,Sierra Leone,Canada in Sierra Leone
 Canada in South Africa,CanHCZA,South Africa,High Commission of Canada in South Africa
 Canada in Tanzania,CanadaTanzania,Tanzania,High Commissioner of Canada in Tanzania
 Canada in Zambia,CanadaZambia,Zambia,Canada in Zambia
-Canada in Zimbabwe,CanEmbZimbabwe,Zimbabwe,"Embassy of Canada to Zimbabwe, Angola, and Botswana"
-Canada in Angola,CanEmbZimbabwe,Angola,"Embassy of Canada to Zimbabwe, Angola, and Botswana"
-Canada in Botswana,CanEmbZimbabwe,Botswana,"Embassy of Canada to Zimbabwe, Angola, and Botswana"
-Canada in Asean,CanadaASEAN,Asean,Association of Southeast Asian Nations (ASEAN)
+Canada in Zimbabwe,CanEmbZimbabwe,Zimbabwe,Embassy of Canada to Zimbabwe, Angola, and Botswana
+Canada in Angola,CanEmbZimbabwe,Angola,Embassy of Canada to Zimbabwe, Angola, and Botswana
+Canada in Botswana,CanEmbZimbabwe,Botswana,Embassy of Canada to Zimbabwe, Angola, and Botswana
+Canada in Asean,CanadaASEAN,Asean,Association of Southeast Asian Nations
 Canada in Afghanistan,CanEmbAFG,Afghanistan,Embassy of Canada to Afghanistan
 Canada in Australia,CanHCAustralia,Australia,High Commission of Canada in Australia
 Canada in Cambodia,CanadaCambodia,Cambodia,Office of Canada to Cambodia
