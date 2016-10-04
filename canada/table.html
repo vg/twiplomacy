@@ -20,12 +20,14 @@
 <table>
   <tr>
     <th>Country</th>
+    <th>Mission</th>
     <th>Twitter</th>
   </tr>
   {% for post in site.data.canada %}
   <tr>
     <td>{{post.country}}</td>
-    <td><a href="http://twitter.com/{{post.twitter}}">UK in {{post.country}}</a></td>
+    <td>{{post.details}}</td>
+    <td><a href="http://twitter.com/{{post.twitter}}">{{post.mission}}</a></td>
   </tr>
   {% endfor %}
 </table>
