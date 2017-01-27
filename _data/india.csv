@@ -63,7 +63,7 @@ Tehran,,Iran,Embassy of India in Tehran Iran,Embassy
 Zahedan,,Iran,Consulate General of India in Zahedan Iran,Consulate General
 Bandar Abbas,,Iran,Consulate of India in Bandar Abbas Iran,Consulate
 Baghdad,EI_Baghdad,Iraq,Embassy of India in Baghdad Iraq,Embassy
-Erbil,,Iraq,Consulate General of India in Erbil Iraq,Consulate General
+Erbil,IndiaInErbil,Iraq,Consulate General of India in Erbil Iraq,Consulate General
 Dublin,IndiainIreland,Ireland,Embassy of India in Dublin Ireland,Embassy
 Tel Aviv,indemtel,Israel,Embassy of India in Tel Aviv Israel,Embassy
 Rome,IndiainItaly,Italy,Embassy of India in Rome Italy,Embassy
@@ -83,7 +83,7 @@ Beiruit,IndiaInLebanon,Lebanon,Embassy of India in Beiruit Lebanon,Embassy
 Tripoli,IndEmbTripoli,Libya,Embassy of India in Tripoli Libya,Embassy
 Antananarivo,IndembTana,Madagascar,Embassy of India in Antananarivo Madagascar,Embassy
 Lilongwe,India_in_Malawi,Malawi,High Commission of India in Lilongwe Malawi,High Commission
-Kuala Lumpur,,Malaysia,High Commission of India in Kuala Lumpur Malaysia,High Commission
+Kuala Lumpur,hcikl,Malaysia,High Commission of India in Kuala Lumpur Malaysia,High Commission
 Malé,HCIMaldives,Maldives,High Commission of India in Malé Maldives,High Commission
 Bamako,IndianEmbassyML,Mali,Embassy of India in Bamako Mali,Embassy
 Port Louis,HCI_PortLouis,Mauritius,High Commission of India in Port Louis Mauritius,High Commission
@@ -111,9 +111,9 @@ Islamabad,IndiainPakistan,Pakistan,High Commission of India in Islamabad Pakista
 Ramallah,ROIRamallah,Palestinian Authority,Representative Office of India in Ramallah Palestinian Authority,Representative Office
 Panama City,IndiainPanama,Panama,Embassy of India in Panama City Panama,Embassy
 Port Moresby,ind_png,Papua New Guinea,High Commission of India in Port Moresby Papua New Guinea,High Commission
-Beijing,,China,Embassy of India in Beijing China,Embassy
-Guangzhou,,China,Consulate General of India in Guangzhou China,Consulate General
-Hong Kong,,China,Consulate General of India in Hong Kong China,Consulate General
+Beijing,EOIBeijing,China,Embassy of India in Beijing China,Embassy
+Guangzhou,cgiguangzhou,China,Consulate General of India in Guangzhou China,Consulate General
+Hong Kong,CGIHongKong,China,Consulate General of India in Hong Kong China,Consulate General
 Shanghai,,China,Consulate General of India in Shanghai China,Consulate General
 Chengdu,,China,Consulate General of India in Chengdu China,Consulate General
 Lima,eoilima,Peru,Embassy of India in Lima Peru,Embassy
