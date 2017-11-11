@@ -21,7 +21,7 @@ Rajshahi,,Bangladesh,Assistant High Commission of India in Rajshahi Bangladesh,A
 Minsk,amb_in,Belarus,Embassy of India in Minsk Belarus,Embassy
 Brussels,IndEmbassyBru,Belgium,Embassy of India in Brussels Belgium,Embassy
 Thimphu,Indiainbhutan,Bhutan,Embassy of India in Thimphu Bhutan,Embassy
-Phuntsholing,,Bhutan,Consulate General of India in Phuntsholing Bhutan,Consulate General
+Phuntsholing,IndiainBhutanCG,Bhutan,Consulate General of India in Phuntsholing Bhutan,Consulate General
 Gaborone,HCIGaborone,Botswana,High Commission of India in Gaborone Botswana,High Commission
 Brasília,indiainbrazil,Brazil,Embassy of India in Brasília Brazil,Embassy
 São Paulo,cgisaopaulo,Brazil,Consulate General of India in São Paulo Brazil,Consulate General
@@ -93,7 +93,7 @@ Rabat,indembrabat,Morocco,Embassy of India in Rabat Morocco,Embassy
 Maputo,IndiainMoz,Mozambique,High Commission of India in Maputo Mozambique,High Commission
 Yangon,IndiainMyanmar,Myanmar,Embassy of India in Yangon Myanmar,Embassy
 Mandalay,cgimandalay,Myanmar,Consulate General of India in Mandalay Myanmar,Consulate General
-Sittwe,,Myanmar,Consulate General of India in Sittwe Myanmar,Consulate General
+Sittwe,cgisittwe,Myanmar,Consulate General of India in Sittwe Myanmar,Consulate General
 Windhoek,IndiainNamibia,Namibia,High Commission of India in Windhoek Namibia,High Commission
 Kathmandu,IndiaInNepal,Nepal,Embassy of India in Kathmandu Nepal,Embassy
 Birgunj,in_birgunj,Nepal,Consulate General of India in Birgunj Nepal,Consulate General
