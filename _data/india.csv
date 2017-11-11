@@ -45,7 +45,7 @@ Suva,HCI_Suva,Fiji,High Commission of India in Suva Fiji,High Commission
 Helsinki,IndEmbFinEst,Finland,Embassy of India in Helsinki Finland,Embassy
 Paris,Indian_Embassy,France,Embassy of India in Paris France,Embassy
 Saint Denis,consulat_l,Reunion,Consulate General of India in Saint Denis Reunion,Consulate General
-Paris,IndiaatUNESCO,France,Permanent Delegation of India in Paris France,Permanent Delegation
+Paris,IndiaatUNESCO,France,Permanent Delegation of India to UNESCO,Permanent Delegation
 Berlin,eoiberlin,Germany,Embassy of India in Berlin Germany,Embassy
 Frankfurt,CGIFrankfurt,Germany,Consulate General of India in Frankfurt Germany,Consulate General
 Hamburg,IndiainHamburg,Germany,Consulate General of India in Hamburg Germany,Consulate General
@@ -149,8 +149,8 @@ Paramaribo,IndEmbSur,Suriname,Embassy of India in Paramaribo Suriname,Embassy
 Stockholm,IndiainSweden,Sweden,Embassy of India in Stockholm Sweden,Embassy
 Berne,IndoSwissVistas,Switzerland,Embassy of India in Berne Switzerland,Embassy
 Geneva,,Switzerland,Consulate General of India in Geneva Switzerland,Consulate General
-Geneva,IndiaUNGeneva,Switzerland,Permanent Mission of India in Geneva Switzerland,Permanent Mission
-Geneva,CDMissionIndia,Switzerland,Permanent Mission of India in Geneva Switzerland,Permanent Mission
+Geneva,IndiaUNGeneva,Switzerland,Permanent Mission of India to the United Nations Geneva,Permanent Mission
+Geneva,CDMissionIndia,Switzerland,Permanent Mission of India to the Confrence of Disarmament Geneva,Permanent Mission
 Damascus,,Syria,Embassy of India in Damascus Syria,Embassy
 Dushanbe,,Tajikistan,Embassy of India in Dushanbe Tajikistan,Embassy
 Dar es Salaam,IndiainTanzania,Tanzania,High Commission of India in Dar es Salaam Tanzania,High Commission
@@ -177,7 +177,7 @@ Atlanta GA,CGI_Atlanta,United States,Consulate General of India in Atlanta GA Un
 Chicago IL,IndiainChicago,United States,Consulate General of India in Chicago IL United States,Consulate General
 Houston TX,cgihou,United States,Consulate General of India in Houston TX United States,Consulate General
 New York City,IndiainNewYork,United States,Consulate General of India in New York City United States,Consulate General
-New York City,IndiaUNNewYork,United States,Permanent Mission of India in New York City United States,Permanent Mission
+New York City,IndiaUNNewYork,United States,Permanent Mission of India to the United Nations New York,Permanent Mission
 San Francisco,CGISFO,United States,Consulate General of India in San Francisco United States,Consulate General
 Tashkent,amb_tashkent,Uzbekistan,Embassy of India in Tashkent Uzbekistan,Embassy
 Caracas,IndiaVenezuela,Venezuela,Embassy of India in Caracas Venezuela,Embassy
@@ -186,13 +186,13 @@ Ho Chi Minh City,cghcm,Vietnam,Consulate General of India in Ho Chi Minh City Vi
 Sana'a,IndiaInYemen,Yemen,Embassy of India in Sana'a Yemen,Embassy
 Lusaka,indiainzambia,Zambia,High Commission of India in Lusaka Zambia,High Commission
 Harare,IndiainZimbabwe,Zimbabwe,Embassy of India in Harare Zimbabwe,Embassy
-Indian Diplomacy,IndianDiplomacy,India,,
-Ministry of External Affairs,MEAIndia,India,,
-New Delhi,CPVIndia,India,,
-Foreign Services Institute,FSI_MEA,India,,
-New Delhi,passportsevamea,India,,
-New Delhi,MEAQuery,India,,
-Sushma Swaraj,SushmaSwaraj,India,,
-Narendra Modi,narendramodi,India,,
-Presidents Office,RashtrapatiBhvn,India,,
-Prime Ministers Office,PMOIndia,India,,
+Indian Diplomacy,IndianDiplomacy,India,Indian Diplomacy,
+Ministry of External Affairs,MEAIndia,India,Ministry of External Affairs,
+New Delhi,CPVIndia,India,Consular Passport Visa Services,
+Foreign Services Institute,FSI_MEA,India,Foreign Services Institute,
+New Delhi,passportsevamea,India,Passport Seva,
+New Delhi,MEAQuery,India,Ministry of External Affiars Queries,
+Sushma Swaraj,SushmaSwaraj,India,External Afairs Minister Sushma Swaraj,
+Narendra Modi,narendramodi,India,Prime Minister Narendra Modi,
+Presidents Office,RashtrapatiBhvn,India,Office of the President,
+Prime Ministers Office,PMOIndia,India,Offic of the Prime Minister,
