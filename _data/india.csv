@@ -31,7 +31,7 @@ Phnom Penh,indembcam,Cambodia,Embassy of India in Phnom Penh Cambodia,Embassy
 Ottawa,HCI_Ottawa,Canada,High Commission of India in Ottawa Canada,High Commission
 Toronto,IndiainToronto,Canada,Assistant High Commission of India in Toronto Canada,Assistant High Commission
 Vancouver,cgivancouver,Canada,Assistant High Commission of India in Vancouver Canada,Assistant High Commission
-Santiago de Chile,Indembchile,Chile,Embassy of India in Santiago de Chile Chile,Embassy
+Santiago de Chile,Indiainchile,Chile,Embassy of India in Santiago de Chile Chile,Embassy
 Bogotá,IndiaEmbBogota,Colombia,Embassy of India in Bogotá Colombia,Embassy
 Zagreb,India_Croatia,Croatia,Embassy of India in Zagreb Croatia,Embassy
 Havana,EOIHavana,Cuba,Embassy of India in Havana Cuba,Embassy
@@ -84,7 +84,7 @@ Tripoli,IndEmbTripoli,Libya,Embassy of India in Tripoli Libya,Embassy
 Antananarivo,IndembTana,Madagascar,Embassy of India in Antananarivo Madagascar,Embassy
 Lilongwe,India_in_Malawi,Malawi,High Commission of India in Lilongwe Malawi,High Commission
 Kuala Lumpur,hcikl,Malaysia,High Commission of India in Kuala Lumpur Malaysia,High Commission
-Malé,HCIMaldives,Maldives,High Commission of India in Malé Maldives,High Commission
+Malé,,Maldives,High Commission of India in Malé Maldives,High Commission
 Bamako,IndianEmbassyML,Mali,Embassy of India in Bamako Mali,Embassy
 Port Louis,HCI_PortLouis,Mauritius,High Commission of India in Port Louis Mauritius,High Commission
 Mexico City,IndEmbMexico,Mexico,Embassy of India in Mexico City Mexico,Embassy
