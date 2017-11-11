@@ -9,7 +9,6 @@
 <title>{{site.title}}</title>
 <meta name="description" content="{{site.description}}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="{{site.baseurl}}/css/normalize.css">
 <link rel="stylesheet" href="{{site.baseurl}}/css/skeleton.css">
 </head>
@@ -29,7 +28,7 @@
     <td>{{post.country}}</td>
     <td>{{post.mission}}</td>
     <td>{{post.details}}</td>
-    <td><a href="http://twitter.com/{{post.twitter}}">{{post.mission}}</a></td>
+    <td>🐦/<a href="http://twitter.com/{{post.twitter}}">{{post.twitter}}</a></td>
   </tr>
   {% endfor %}
 </table>
