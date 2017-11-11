@@ -22,6 +22,7 @@
     <th>City</th>
     <th>Diplomatic Mission</th>
     <th>Twitter</th>
+    <th>Avatar</th>
   </tr>
   {% for post in site.data.india %}
   <tr>
@@ -29,6 +30,7 @@
     <td>{{post.mission}}</td>
     <td>{{post.details}}</td>
     <td>🐦/<a href="http://twitter.com/{{post.twitter}}">{{post.twitter}}</a></td>
+    <td><img src="https://avatars.io/twitter/{{post.twitter}}" alt="{{post.twitter}}" height="32" width="32"></td>
   </tr>
   {% endfor %}
 </table>
