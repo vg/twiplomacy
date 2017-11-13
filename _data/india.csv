@@ -1,3 +1,4 @@
+mission,twitter,country,details,type
 Kabul,IndianEmbKabul,Afghanistan,Embassy of India in Kabul Afghanistan,Embassy
 Herat,IndianConsHerat,Afghanistan,Consulate General of India in Herat Afghanistan,Consulate General
 Jalalabad,IndianConsJalal,Afghanistan,Consulate General of India in Jalalabad Afghanistan,Consulate General
@@ -37,7 +38,6 @@ Hong Kong,CGIHongKong,China,Consulate General of India in Hong Kong China,Consul
 Shanghai,,China,Consulate General of India in Shanghai China,Consulate General
 Chengdu,,China,Consulate General of India in Chengdu China,Consulate General
 Bogota,IndiaEmbBogota,Colombia,Embassy of India in Bogota Colombia,Embassy
-mission,twitter,country,details,type
 Zagreb,India_Croatia,Croatia,Embassy of India in Zagreb Croatia,Embassy
 Havana,EOIHavana,Cuba,Embassy of India in Havana Cuba,Embassy
 Nicosia,HCI_Nicosia,Cyprus,High Commission of India in Nicosia Cyprus,High Commission
@@ -61,16 +61,6 @@ Guatemala City,IndiaInGuate,Guatemala,Embassy of India in Guatemala City Guatema
 Georgetown,IndiainGuyana,Guyana,High Commission of India in Georgetown Guyana,High Commission
 Budapest,IndiaInHungary,Hungary,Embassy of India in Budapest Hungary,Embassy
 Reykjavik,indembiceland,Iceland,Embassy of India in Reykjavik Iceland,Embassy
-Indian Diplomacy,IndianDiplomacy,India,Indian Diplomacy,
-Ministry of External Affairs,MEAIndia,India,Ministry of External Affairs,
-New Delhi,CPVIndia,India,Consular Passport Visa Services,
-Foreign Services Institute,FSI_MEA,India,Foreign Services Institute,
-New Delhi,passportsevamea,India,Passport Seva,
-New Delhi,MEAQuery,India,Ministry of External Affiars Queries,
-Sushma Swaraj,SushmaSwaraj,India,External Afairs Minister Sushma Swaraj,
-Narendra Modi,narendramodi,India,Prime Minister Narendra Modi,
-Presidents Office,RashtrapatiBhvn,India,Office of the President,
-Prime Ministers Office,PMOIndia,India,Office of the Prime Minister,
 Jakarta,IndianEmbJkt,Indonesia,Embassy of India in Jakarta Indonesia,Embassy
 Medan,indiainmedan,Indonesia,Consulate General of India in Medan Indonesia,Consulate General
 Bali,cgibali,Indonesia,Consulate General of India in Bali Indonesia,Consulate General
@@ -194,3 +184,13 @@ Ho Chi Minh,cghcm,Vietnam,Consulate General of India in Ho Chi Minh Vietnam,Cons
 Sana'a,IndiaInYemen,Yemen,Embassy of India in Sana'a Yemen,Embassy
 Lusaka,indiainzambia,Zambia,High Commission of India in Lusaka Zambia,High Commission
 Harare,IndiainZimbabwe,Zimbabwe,Embassy of India in Harare Zimbabwe,Embassy
+Indian Diplomacy,IndianDiplomacy,India,Indian Diplomacy,
+Ministry of External Affairs,MEAIndia,India,Ministry of External Affairs,
+New Delhi,CPVIndia,India,Consular Passport Visa Services,
+Foreign Services Institute,FSI_MEA,India,Foreign Services Institute,
+New Delhi,passportsevamea,India,Passport Seva,
+New Delhi,MEAQuery,India,Ministry of External Affiars Queries,
+Sushma Swaraj,SushmaSwaraj,India,External Afairs Minister Sushma Swaraj,
+Narendra Modi,narendramodi,India,Prime Minister Narendra Modi,
+Presidents Office,RashtrapatiBhvn,India,Office of the President,
+Prime Ministers Office,PMOIndia,India,Office of the Prime Minister,
