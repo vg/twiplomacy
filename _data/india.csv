@@ -1,4 +1,3 @@
-mission,twitter,country,details,type
 Kabul,IndianEmbKabul,Afghanistan,Embassy of India in Kabul Afghanistan,Embassy
 Herat,IndianConsHerat,Afghanistan,Consulate General of India in Herat Afghanistan,Consulate General
 Jalalabad,IndianConsJalal,Afghanistan,Consulate General of India in Jalalabad Afghanistan,Consulate General
@@ -9,8 +8,8 @@ Luanda,IndiainAngola,Angola,Embassy of India in Luanda Angola,Embassy
 Buenos Aires,Indembarg,Argentina,Embassy of India in Buenos Aires Argentina,Embassy
 Yerevan,IndiainArmenia,Armenia,Embassy of India in Yerevan Armenia,Embassy
 Canberra,HCICanberra,Australia,High Commission of India in Canberra Australia,High Commission
-Melbourne,cgimelbourne,Australia,Assistant High Commission of India in Melbourne Australia,Assistant High Commission
-Sydney,cgisydney,Australia,Assistant High Commission of India in Sydney Australia,Assistant High Commission
+Melbourne,cgimelbourne,Australia,Consulate General of India in Melbourne Australia,Consulate General
+Sydney,cgisydney,Australia,Consulate General of India in Sydney Australia,Consulate General
 Perth,CGIPerth,Australia,Consulate General of India in Perth Australia,Consulate General
 Vienna,IndiainAustria,Austria,Embassy of India in Vienna Austria,Embassy
 Baku,indembassybaku,Azerbaijan,Embassy of India in Baku Azerbaijan,Embassy
@@ -23,16 +22,22 @@ Brussels,IndEmbassyBru,Belgium,Embassy of India in Brussels Belgium,Embassy
 Thimphu,Indiainbhutan,Bhutan,Embassy of India in Thimphu Bhutan,Embassy
 Phuntsholing,IndiainBhutanCG,Bhutan,Consulate General of India in Phuntsholing Bhutan,Consulate General
 Gaborone,HCIGaborone,Botswana,High Commission of India in Gaborone Botswana,High Commission
-Brasília,indiainbrazil,Brazil,Embassy of India in Brasília Brazil,Embassy
-São Paulo,cgisaopaulo,Brazil,Consulate General of India in São Paulo Brazil,Consulate General
+Brasilia,indiainbrazil,Brazil,Embassy of India in Brasilia Brazil,Embassy
+Sao Paulo,cgisaopaulo,Brazil,Consulate General of India in Sao Paulo Brazil,Consulate General
 Bandar Seri Begawan,hicomindBrunei,Brunei,High Commission of India in Bandar Seri Begawan Brunei,High Commission
 Sofia,IndiaInBulgaria,Bulgaria,Embassy of India in Sofia Bulgaria,Embassy
 Phnom Penh,indembcam,Cambodia,Embassy of India in Phnom Penh Cambodia,Embassy
 Ottawa,HCI_Ottawa,Canada,High Commission of India in Ottawa Canada,High Commission
-Toronto,IndiainToronto,Canada,Assistant High Commission of India in Toronto Canada,Assistant High Commission
-Vancouver,cgivancouver,Canada,Assistant High Commission of India in Vancouver Canada,Assistant High Commission
-Santiago de Chile,Indiainchile,Chile,Embassy of India in Santiago de Chile Chile,Embassy
-Bogotá,IndiaEmbBogota,Colombia,Embassy of India in Bogotá Colombia,Embassy
+Toronto,IndiainToronto,Canada,Consulate General of India in Toronto Canada,Consulate General
+Vancouver,cgivancouver,Canada,Consulate General of India in Vancouver Canada,Consulate General
+Santiago,Indiainchile,Chile,Embassy of India in Santiago Chile,Embassy
+Beijing,EOIBeijing,China,Embassy of India in Beijing China,Embassy
+Guangzhou,cgiguangzhou,China,Consulate General of India in Guangzhou China,Consulate General
+Hong Kong,CGIHongKong,China,Consulate General of India in Hong Kong China,Consulate General
+Shanghai,,China,Consulate General of India in Shanghai China,Consulate General
+Chengdu,,China,Consulate General of India in Chengdu China,Consulate General
+Bogota,IndiaEmbBogota,Colombia,Embassy of India in Bogota Colombia,Embassy
+mission,twitter,country,details,type
 Zagreb,India_Croatia,Croatia,Embassy of India in Zagreb Croatia,Embassy
 Havana,EOIHavana,Cuba,Embassy of India in Havana Cuba,Embassy
 Nicosia,HCI_Nicosia,Cyprus,High Commission of India in Nicosia Cyprus,High Commission
@@ -44,8 +49,8 @@ Addis Ababa,IndiaInEthiopia,Ethiopia,Embassy of India in Addis Ababa Ethiopia,Em
 Suva,HCI_Suva,Fiji,High Commission of India in Suva Fiji,High Commission
 Helsinki,IndEmbFinEst,Finland,Embassy of India in Helsinki Finland,Embassy
 Paris,Indian_Embassy,France,Embassy of India in Paris France,Embassy
-Saint Denis,consulat_l,Reunion,Consulate General of India in Saint Denis Reunion,Consulate General
-Paris,IndiaatUNESCO,France,Permanent Delegation of India to UNESCO,Permanent Delegation
+Saint Denis Reunion,consulat_l,France,Consulate General of India in Saint Denis Reunion France,Consulate General
+UNESCO Paris,IndiaatUNESCO,France,Permanent Missionof India to UNESCO Paris France,Permanent Mission
 Berlin,eoiberlin,Germany,Embassy of India in Berlin Germany,Embassy
 Frankfurt,CGIFrankfurt,Germany,Consulate General of India in Frankfurt Germany,Consulate General
 Hamburg,IndiainHamburg,Germany,Consulate General of India in Hamburg Germany,Consulate General
@@ -55,13 +60,23 @@ Athens,EmbIndiaAthens,Greece,Embassy of India in Athens Greece,Embassy
 Guatemala City,IndiaInGuate,Guatemala,Embassy of India in Guatemala City Guatemala,Embassy
 Georgetown,IndiainGuyana,Guyana,High Commission of India in Georgetown Guyana,High Commission
 Budapest,IndiaInHungary,Hungary,Embassy of India in Budapest Hungary,Embassy
-Reykjavík,indembiceland,Iceland,Embassy of India in Reykjavík Iceland,Embassy
+Reykjavik,indembiceland,Iceland,Embassy of India in Reykjavik Iceland,Embassy
+Indian Diplomacy,IndianDiplomacy,India,Indian Diplomacy,
+Ministry of External Affairs,MEAIndia,India,Ministry of External Affairs,
+New Delhi,CPVIndia,India,Consular Passport Visa Services,
+Foreign Services Institute,FSI_MEA,India,Foreign Services Institute,
+New Delhi,passportsevamea,India,Passport Seva,
+New Delhi,MEAQuery,India,Ministry of External Affiars Queries,
+Sushma Swaraj,SushmaSwaraj,India,External Afairs Minister Sushma Swaraj,
+Narendra Modi,narendramodi,India,Prime Minister Narendra Modi,
+Presidents Office,RashtrapatiBhvn,India,Office of the President,
+Prime Ministers Office,PMOIndia,India,Office of the Prime Minister,
 Jakarta,IndianEmbJkt,Indonesia,Embassy of India in Jakarta Indonesia,Embassy
 Medan,indiainmedan,Indonesia,Consulate General of India in Medan Indonesia,Consulate General
 Bali,cgibali,Indonesia,Consulate General of India in Bali Indonesia,Consulate General
 Tehran,,Iran,Embassy of India in Tehran Iran,Embassy
 Zahedan,,Iran,Consulate General of India in Zahedan Iran,Consulate General
-Bandar Abbas,,Iran,Consulate of India in Bandar Abbas Iran,Consulate
+Bandar Abbas,,Iran,Consulate General of India in Bandar Abbas Iran,Consulate General
 Baghdad,EI_Baghdad,Iraq,Embassy of India in Baghdad Iraq,Embassy
 Erbil,IndiaInErbil,Iraq,Consulate General of India in Erbil Iraq,Consulate General
 Dublin,IndiainIreland,Ireland,Embassy of India in Dublin Ireland,Embassy
@@ -84,7 +99,7 @@ Tripoli,IndEmbTripoli,Libya,Embassy of India in Tripoli Libya,Embassy
 Antananarivo,IndembTana,Madagascar,Embassy of India in Antananarivo Madagascar,Embassy
 Lilongwe,India_in_Malawi,Malawi,High Commission of India in Lilongwe Malawi,High Commission
 Kuala Lumpur,hcikl,Malaysia,High Commission of India in Kuala Lumpur Malaysia,High Commission
-Malé,,Maldives,High Commission of India in Malé Maldives,High Commission
+Male,,Maldives,High Commission of India in Male Maldives,High Commission
 Bamako,IndianEmbassyML,Mali,Embassy of India in Bamako Mali,Embassy
 Port Louis,HCI_PortLouis,Mauritius,High Commission of India in Port Louis Mauritius,High Commission
 Mexico City,IndEmbMexico,Mexico,Embassy of India in Mexico City Mexico,Embassy
@@ -108,21 +123,14 @@ Oslo,IndiainNorway,Norway,Embassy of India in Oslo Norway,Embassy
 Muscat,Indemb_Muscat,Oman,Embassy of India in Muscat Oman,Embassy
 Salalah,,Oman,Consulate General of India in Salalah Oman,Consulate General
 Islamabad,IndiainPakistan,Pakistan,High Commission of India in Islamabad Pakistan,High Commission
-Ramallah,ROIRamallah,Palestinian Authority,Representative Office of India in Ramallah Palestinian Authority,Representative Office
+Ramallah,ROIRamallah,Palestine,Representative Office of India in Ramallah Palestine,Representative Office
 Panama City,IndiainPanama,Panama,Embassy of India in Panama City Panama,Embassy
 Port Moresby,ind_png,Papua New Guinea,High Commission of India in Port Moresby Papua New Guinea,High Commission
-Beijing,EOIBeijing,China,Embassy of India in Beijing China,Embassy
-Guangzhou,cgiguangzhou,China,Consulate General of India in Guangzhou China,Consulate General
-Hong Kong,CGIHongKong,China,Consulate General of India in Hong Kong China,Consulate General
-Shanghai,,China,Consulate General of India in Shanghai China,Consulate General
-Chengdu,,China,Consulate General of India in Chengdu China,Consulate General
 Lima,eoilima,Peru,Embassy of India in Lima Peru,Embassy
 Manila,indembmanila,Philippines,Embassy of India in Manila Philippines,Embassy
 Warsaw,IndiaPoland,Poland,Embassy of India in Warsaw Poland,Embassy
 Lisbon,IndiainPortugal,Portugal,Embassy of India in Lisbon Portugal,Embassy
 Doha,IndEmbDoha,Qatar,Embassy of India in Doha Qatar,Embassy
-Taipei,,Taiwan,India-Taipei Association,India-Taipei Association
-Seoul,IndiainROK,South Korea,Embassy of India in Seoul South Korea,Embassy
 Bucharest,eoiromania,Romania,Embassy of India in Bucharest Romania,Embassy
 Moscow,IndEmbMoscow,Russia,Embassy of India in Moscow Russia,Embassy
 Saint Petersburg,indianconsspb,Russia,Consulate General of India in Saint Petersburg Russia,Consulate General
@@ -135,9 +143,10 @@ Victoria,hci_seychelles,Seychelles,High Commission of India in Victoria Seychell
 Singapore,IndiainSingapor,Singapore,High Commission of India in Singapore Singapore,High Commission
 Bratislava,IndiaInSlovakia,Slovakia,Embassy of India in Bratislava Slovakia,Embassy
 Pretoria,hci_pretoria,South Africa,High Commission of India in Pretoria South Africa,High Commission
-Cape Town,IndiainCapeTown,South Africa,High Commission of India in Cape Town South Africa,High Commission
-Durban,CGIDurban,South Africa,Assistant High Commission of India in Durban South Africa,Assistant High Commission
-Johannesburg,indiainjoburg,South Africa,Assistant High Commission of India in Johannesburg South Africa,Assistant High Commission
+Cape Town,IndiainCapeTown,South Africa,Consulate General of India in Cape Town South Africa,Consulate General
+Durban,CGIDurban,South Africa,Consulate General of India in Durban South Africa,Consulate General
+Johannesburg,indiainjoburg,South Africa,Consulate General of India in Johannesburg South Africa,Consulate General
+Seoul,IndiainROK,South Korea,Embassy of India in Seoul South Korea,Embassy
 Juba,eoijuba,South Sudan,Embassy of India in Juba South Sudan,Embassy
 Madrid,IndiainSpain,Spain,Embassy of India in Madrid Spain,Embassy
 Colombo,IndiainSL,Sri Lanka,High Commission of India in Colombo Sri Lanka,High Commission
@@ -149,14 +158,15 @@ Paramaribo,IndEmbSur,Suriname,Embassy of India in Paramaribo Suriname,Embassy
 Stockholm,IndiainSweden,Sweden,Embassy of India in Stockholm Sweden,Embassy
 Berne,IndoSwissVistas,Switzerland,Embassy of India in Berne Switzerland,Embassy
 Geneva,,Switzerland,Consulate General of India in Geneva Switzerland,Consulate General
-Geneva,IndiaUNGeneva,Switzerland,Permanent Mission of India to the United Nations Geneva,Permanent Mission
-Geneva,CDMissionIndia,Switzerland,Permanent Mission of India to the Confrence of Disarmament Geneva,Permanent Mission
+United Nations Geneva,IndiaUNGeneva,Switzerland,Permanent Mission of India to the United Nations Geneva,Permanent Mission
+ Confrence of Disarmament Geneva,CDMissionIndia,Switzerland,Permanent Mission of India to the Confrence of Disarmament Geneva,Permanent Mission
 Damascus,,Syria,Embassy of India in Damascus Syria,Embassy
+Taipei,,Taiwan,India-Taipei Association Taipei Taiwan,India-Taipei Association
 Dushanbe,,Tajikistan,Embassy of India in Dushanbe Tajikistan,Embassy
 Dar es Salaam,IndiainTanzania,Tanzania,High Commission of India in Dar es Salaam Tanzania,High Commission
 Zanzibar,cgizanzibar1,Tanzania,Consulate General of India in Zanzibar Tanzania,Consulate General
 Bangkok,IndiainThailand,Thailand,Embassy of India in Bangkok Thailand,Embassy
-Chiang Mai,,Thailand,Consulate General of India in Chiang Mai Thailand,Consulate General
+Chiangmai,,Thailand,Consulate General of India in Chiangmai Thailand,Consulate General
 Yala,,Thailand,Consulate General of India in Yala Thailand,Consulate General
 Port of Spain,IndiainTandT,Trinidad and Tobago,High Commission of India in Port of Spain Trinidad and Tobago,High Commission
 Tunis,IndiainTunisia,Tunisia,Embassy of India in Tunis Tunisia,Embassy
@@ -168,31 +178,19 @@ Kiev,IndiainUkraine,Ukraine,Embassy of India in Kiev Ukraine,Embassy
 Abu Dhabi,IndembAbuDhabi,United Arab Emirates,Embassy of India in Abu Dhabi United Arab Emirates,Embassy
 Dubai,cgidubai,United Arab Emirates,Consulate General of India in Dubai United Arab Emirates,Consulate General
 London,HCI_London,United Kingdom,High Commission of India in London United Kingdom,High Commission
-Birmingham,CGI_Bghm,United Kingdom,Assistant High Commission of India in Birmingham United Kingdom,Assistant High Commission
-Edinburgh Scotland,IndiaInScotland,United Kingdom,Assistant High Commission of India in Edinburgh Scotland United Kingdom,Assistant High Commission
-Cardiff Wales,,United Kingdom,Honary Consul of India in Cardiff Wales United Kingdom,Honary Consul
-Belfast Northern Ireland,,United Kingdom,Honary Consul of India in Belfast Northern Ireland United Kingdom,Honary Consul
+Birmingham,CGI_Bghm,United Kingdom,Assistant High Commission of India in Birmingham United Kingdom,Consulate General
+Edinburgh Scotland,IndiaInScotland,United Kingdom,Assistant High Commission of India in Edinburgh Scotland United Kingdom,Consulate General
 Washington DC,IndianEmbassyUS,United States,Embassy of India in Washington DC United States,Embassy
 Atlanta GA,CGI_Atlanta,United States,Consulate General of India in Atlanta GA United States,Consulate General
 Chicago IL,IndiainChicago,United States,Consulate General of India in Chicago IL United States,Consulate General
 Houston TX,cgihou,United States,Consulate General of India in Houston TX United States,Consulate General
-New York City,IndiainNewYork,United States,Consulate General of India in New York City United States,Consulate General
-New York City,IndiaUNNewYork,United States,Permanent Mission of India to the United Nations New York,Permanent Mission
+New York NY,IndiainNewYork,United States,Consulate General of India in New York NY United States,Consulate General
+United Nations New York,IndiaUNNewYork,United States,Permanent Mission of India to the United Nations New York,Permanent Mission
 San Francisco,CGISFO,United States,Consulate General of India in San Francisco United States,Consulate General
 Tashkent,amb_tashkent,Uzbekistan,Embassy of India in Tashkent Uzbekistan,Embassy
 Caracas,IndiaVenezuela,Venezuela,Embassy of India in Caracas Venezuela,Embassy
 Hanoi,AmbHanoi,Vietnam,Embassy of India in Hanoi Vietnam,Embassy
-Ho Chi Minh City,cghcm,Vietnam,Consulate General of India in Ho Chi Minh City Vietnam,Consulate General
+Ho Chi Minh,cghcm,Vietnam,Consulate General of India in Ho Chi Minh Vietnam,Consulate General
 Sana'a,IndiaInYemen,Yemen,Embassy of India in Sana'a Yemen,Embassy
 Lusaka,indiainzambia,Zambia,High Commission of India in Lusaka Zambia,High Commission
 Harare,IndiainZimbabwe,Zimbabwe,Embassy of India in Harare Zimbabwe,Embassy
-Indian Diplomacy,IndianDiplomacy,India,Indian Diplomacy,
-Ministry of External Affairs,MEAIndia,India,Ministry of External Affairs,
-New Delhi,CPVIndia,India,Consular Passport Visa Services,
-Foreign Services Institute,FSI_MEA,India,Foreign Services Institute,
-New Delhi,passportsevamea,India,Passport Seva,
-New Delhi,MEAQuery,India,Ministry of External Affiars Queries,
-Sushma Swaraj,SushmaSwaraj,India,External Afairs Minister Sushma Swaraj,
-Narendra Modi,narendramodi,India,Prime Minister Narendra Modi,
-Presidents Office,RashtrapatiBhvn,India,Office of the President,
-Prime Ministers Office,PMOIndia,India,Offic of the Prime Minister,
