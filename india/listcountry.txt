@@ -1,0 +1,3 @@
+{% for post in site.data.countries | sort: 'country' %}
+{{post.country}}
+{% endfor %}
