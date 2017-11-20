@@ -10,7 +10,7 @@
       "properties": {
         "country": "{{countries.country}}",
         "mission_num": {{israel[forloop.index0] | size | jsonify}},
-        "mission_names": {{isreael[forloop.index0] | jsonify}},
+        "mission_names": {{israel[forloop.index0] | jsonify}},
         "twitter_handles": {{twitter_handles[forloop.index0] | jsonify}},
         "detailss": {{detailss[forloop.index0] | jsonify}}
       },
