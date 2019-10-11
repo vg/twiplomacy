@@ -17,7 +17,7 @@ Baku,indembassybaku,Azerbaijan,Embassy of India in Baku Azerbaijan,Embassy
 Manama,IndiaInBahrain,Bahrain,Embassy of India in Manama Bahrain,Embassy
 Dhaka,ihcdhaka,Bangladesh,High Commission of India in Dhaka Bangladesh,High Commission
 Chittagong,ahcichittagong,Bangladesh,Assistant High Commission of India in Chittagong Bangladesh,Assistant High Commission
-Rajshahi,,Bangladesh,Assistant High Commission of India in Rajshahi Bangladesh,Assistant High Commission
+Rajshahi,IRajshahi,Bangladesh,Assistant High Commission of India in Rajshahi Bangladesh,Assistant High Commission
 Khulna,ahcikhulna,Bangladesh,Assistant High Commission of India in Khulna Bangladesh,Assistant High Commission
 Minsk,amb_in,Belarus,Embassy of India in Minsk Belarus,Embassy
 Brussels,IndEmbassyBru,Belgium,Embassy of India in Brussels Belgium,Embassy
@@ -66,7 +66,7 @@ Reykjavik,indembiceland,Iceland,Embassy of India in Reykjavik Iceland,Embassy
 Jakarta,IndianEmbJkt,Indonesia,Embassy of India in Jakarta Indonesia,Embassy
 Medan,indiainmedan,Indonesia,Consulate General of India in Medan Indonesia,Consulate General
 Bali,cgibali,Indonesia,Consulate General of India in Bali Indonesia,Consulate General
-Tehran,,Iran,Embassy of India in Tehran Iran,Embassy
+TehranIran,Embassy of India in Tehran Iran,Embassy
 Zahedan,,Iran,Consulate General of India in Zahedan Iran,Consulate General
 Bandar Abbas,,Iran,Consulate General of India in Bandar Abbas Iran,Consulate General
 Baghdad,EI_Baghdad,Iraq,Embassy of India in Baghdad Iraq,Embassy
@@ -91,7 +91,7 @@ Tripoli,IndEmbTripoli,Libya,Embassy of India in Tripoli Libya,Embassy
 Antananarivo,IndembTana,Madagascar,Embassy of India in Antananarivo Madagascar,Embassy
 Lilongwe,India_in_Malawi,Malawi,High Commission of India in Lilongwe Malawi,High Commission
 Kuala Lumpur,hcikl,Malaysia,High Commission of India in Kuala Lumpur Malaysia,High Commission
-Male,,Maldives,High Commission of India in Male Maldives,High Commission
+Male,EoIMaldives,Maldives,High Commission of India in Male Maldives,High Commission
 Bamako,IndianEmbassyML,Mali,Embassy of India in Bamako Mali,Embassy
 Malta,IndiainMalta,Malta,High Commission of India in Malta,High Commission
 Port Louis,HCI_PortLouis,Mauritius,High Commission of India in Port Louis Mauritius,High Commission
@@ -186,7 +186,7 @@ Tashkent,amb_tashkent,Uzbekistan,Embassy of India in Tashkent Uzbekistan,Embassy
 Caracas,IndiaVenezuela,Venezuela,Embassy of India in Caracas Venezuela,Embassy
 Hanoi,AmbHanoi,Vietnam,Embassy of India in Hanoi Vietnam,Embassy
 Ho Chi Minh,cghcm,Vietnam,Consulate General of India in Ho Chi Minh Vietnam,Consulate General
-Sana'a,IndiaInYemen,Yemen,Embassy of India in Sana'a Yemen,Embassy
+Sanaa,IndiaInYemen,Yemen,Embassy of India in Sanaa Yemen,Embassy
 Lusaka,indiainzambia,Zambia,High Commission of India in Lusaka Zambia,High Commission
 Harare,IndiainZimbabwe,Zimbabwe,Embassy of India in Harare Zimbabwe,Embassy
 Indian Diplomacy,IndianDiplomacy,India,Indian Diplomacy,
