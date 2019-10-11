@@ -18,6 +18,7 @@ Manama,IndiaInBahrain,Bahrain,Embassy of India in Manama Bahrain,Embassy
 Dhaka,ihcdhaka,Bangladesh,High Commission of India in Dhaka Bangladesh,High Commission
 Chittagong,ahcichittagong,Bangladesh,Assistant High Commission of India in Chittagong Bangladesh,Assistant High Commission
 Rajshahi,,Bangladesh,Assistant High Commission of India in Rajshahi Bangladesh,Assistant High Commission
+Khulna,ahcikhulna,Bangladesh,Assistant High Commission of India in Khulna Bangladesh,Assistant High Commission
 Minsk,amb_in,Belarus,Embassy of India in Minsk Belarus,Embassy
 Brussels,IndEmbassyBru,Belgium,Embassy of India in Brussels Belgium,Embassy
 Thimphu,Indiainbhutan,Bhutan,Embassy of India in Thimphu Bhutan,Embassy
@@ -45,6 +46,7 @@ Prague,IndiaCzech,Czech Republic,Embassy of India in Prague Czech Republic,Embas
 Kinshasa,IndiainDRC,Democratic Republic of the Congo,Embassy of India in Kinshasa Democratic Republic of the Congo,Embassy
 Copenhagen,IndiainDenmark,Denmark,Embassy of India in Copenhagen Denmark,Embassy
 Cairo,indembcairo,Egypt,Embassy of India in Cairo Egypt,Embassy
+Mbabane,EswatiniIn,Eswatini,Embassy of India in Mbabane Eswatini,Embassy
 Addis Ababa,IndiaInEthiopia,Ethiopia,Embassy of India in Addis Ababa Ethiopia,Embassy
 Suva,HCI_Suva,Fiji,High Commission of India in Suva Fiji,High Commission
 Helsinki,IndEmbFinEst,Finland,Embassy of India in Helsinki Finland,Embassy
@@ -126,6 +128,7 @@ Bucharest,eoiromania,Romania,Embassy of India in Bucharest Romania,Embassy
 Moscow,IndEmbMoscow,Russia,Embassy of India in Moscow Russia,Embassy
 Saint Petersburg,indianconsspb,Russia,Consulate General of India in Saint Petersburg Russia,Consulate General
 Vladivostok,cgivladivostok,Russia,Consulate General of India in Vladivostok Russia,Consulate General
+Kigali,IndiaKigali,Rwanda,High Commission of India in Kigali Rwanda,High Commission
 Riyadh,IndianEmbRiyadh,Saudi Arabia,Embassy of India in Riyadh Saudi Arabia,Embassy
 Jeddah,CGIJeddah,Saudi Arabia,Consulate General of India in Jeddah Saudi Arabia,Consulate General
 Dakar,IndiainSenegal,Senegal,Embassy of India in Dakar Senegal,Embassy
@@ -133,6 +136,7 @@ Belgrade,IndiaInSerbia,Serbia,Embassy of India in Belgrade Serbia,Embassy
 Victoria,hci_seychelles,Seychelles,High Commission of India in Victoria Seychelles,High Commission
 Singapore,IndiainSingapor,Singapore,High Commission of India in Singapore Singapore,High Commission
 Bratislava,IndiaInSlovakia,Slovakia,Embassy of India in Bratislava Slovakia,Embassy
+Ljubljana,IndiainSlovenia,Slovenia,Embassy of India in Ljubljana Slovenia,Embassy
 Pretoria,hci_pretoria,South Africa,High Commission of India in Pretoria South Africa,High Commission
 Cape Town,IndiainCapeTown,South Africa,Consulate General of India in Cape Town South Africa,Consulate General
 Durban,CGIDurban,South Africa,Consulate General of India in Durban South Africa,Consulate General
@@ -150,10 +154,10 @@ Stockholm,IndiainSweden,Sweden,Embassy of India in Stockholm Sweden,Embassy
 Berne,IndoSwissVistas,Switzerland,Embassy of India in Berne Switzerland,Embassy
 Geneva,,Switzerland,Consulate General of India in Geneva Switzerland,Consulate General
 United Nations Geneva,IndiaUNGeneva,Switzerland,Permanent Mission of India to the United Nations Geneva,Permanent Mission
- Confrence of Disarmament Geneva,CDMissionIndia,Switzerland,Permanent Mission of India to the Confrence of Disarmament Geneva,Permanent Mission
-Damascus,,Syria,Embassy of India in Damascus Syria,Embassy
+Confrence of Disarmament Geneva,CDMissionIndia,Switzerland,Permanent Mission of India to the Confrence of Disarmament Geneva,Permanent Mission
+Damascus,eoidamascus,Syria,Embassy of India in Damascus Syria,Embassy
 Taipei,,Taiwan,India-Taipei Association Taipei Taiwan,India-Taipei Association
-Dushanbe,,Tajikistan,Embassy of India in Dushanbe Tajikistan,Embassy
+Dushanbe,IndEmbDushanbe,Tajikistan,Embassy of India in Dushanbe Tajikistan,Embassy
 Dar es Salaam,IndiainTanzania,Tanzania,High Commission of India in Dar es Salaam Tanzania,High Commission
 Zanzibar,cgizanzibar1,Tanzania,Consulate General of India in Zanzibar Tanzania,Consulate General
 Bangkok,IndiainThailand,Thailand,Embassy of India in Bangkok Thailand,Embassy
