@@ -1,0 +1,23 @@
+{% assign distinct_countries = "" | split: "" %}{% for mission in site.data.swiss %}{% if mission.country %}{% unless distinct_countries contains mission.country %}{% assign distinct_countries = distinct_countries | push: mission.country %}{% endunless %}{% endif %}{% endfor %}
+{% assign swiss = "" | split: "" %}{% for country in distinct_countries %}{% assign list = "" | split: "|" %}{% for mission in site.data.swiss %}{% if country == mission.country %}{% assign list = list | push: mission.mission %}{% endif %}{% endfor %}{% assign swiss = swiss | push: list %}{% endfor %}
+{% assign twitter_handles = "" | split: "" %}{% for country in distinct_countries %}{% assign twitter = "" | split: "|" %}{% for mission in site.data.swiss %}{% if country == mission.country %}{% assign twitter = twitter | push: mission.twitter %}{% endif %}{% endfor %}{% assign twitter_handles = twitter_handles | push: twitter %}{% endfor %}
+{% assign detailss = "" | split: "" %}{% for country in distinct_countries %}{% assign store_detailss = "" | split: "|" %}{% for mission in site.data.swiss %}{% if country == mission.country %}{% assign store_detailss = store_detailss | push: mission.details %}{% endif %}{% endfor %}{% assign detailss = detailss | push: store_detailss %}{% endfor %}
+{
+  "type": "FeatureCollection",
+  "features": [{% for countries in site.data.countries %}{% for distinct_country in distinct_countries %}{% if countries.country == distinct_country %}
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "{{countries.country}}",
+        "mission_num": {{swiss[forloop.index0] | size | jsonify}},
+        "mission_names": {{swiss[forloop.index0] | jsonify}},
+        "twitter_handles": {{twitter_handles[forloop.index0] | jsonify}},
+        "detailss": {{detailss[forloop.index0] | jsonify}}
+      },
+      "geometry": {
+        "type": "{{countries.type}}",
+        "coordinates": {{countries.coordinates}}
+      }
+    },{% endif %}{% endfor %}{% endfor %}
+  ]
+}
